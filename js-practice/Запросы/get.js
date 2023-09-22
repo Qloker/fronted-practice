@@ -27,5 +27,3 @@ fetch(apiUrl, requestOptions)
   .catch(error => {
     console.error('Произошла ошибка:', error);
   });
-wewesdsdsd2s
-2
